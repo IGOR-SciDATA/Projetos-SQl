@@ -1,0 +1,6 @@
+cd Desktop
+cd Projetos-SQL
+cd API-Web
+cd bibliotecaflask
+
+>venv\Scripts\activate
